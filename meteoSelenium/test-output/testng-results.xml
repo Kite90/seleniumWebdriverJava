@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4866" started-at="2018-01-06T22:39:35Z" finished-at="2018-01-06T22:39:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4866" started-at="2018-01-06T22:39:35Z" finished-at="2018-01-06T22:39:40Z">
+      <class name="meteoSelenium.ControlPanel">
+        <test-method status="PASS" signature="checkWeather()[pri:0, instance:meteoSelenium.ControlPanel@33f88ab]" name="checkWeather" duration-ms="4852" started-at="2018-01-06T23:39:35Z" finished-at="2018-01-06T23:39:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWeather -->
+      </class> <!-- meteoSelenium.ControlPanel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
